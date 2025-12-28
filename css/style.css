@@ -1,0 +1,102 @@
+body {
+    background-color: rgb(2, 0, 3);
+}
+
+.main_title h1 {
+    text-align: center;
+    font-size: 3em;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.categoryS {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.categoryS h2 {
+    margin: 0;
+}
+
+.categoryS a {
+    text-decoration: none;
+    color: #6934fd;
+    padding: 8px 15px;
+    background-color: hsl(290, 100%, 77%);
+    border-radius: 5px;
+}
+
+.categoryS a:hover {
+    background-color: #924eff;
+}
+
+section p, h2, h3, h4 {
+    color: white;
+}
+
+.gametorrentlinks a {
+    display: block;
+    font-size: x-large;
+    text-align: center;        
+    margin-bottom: 20px;   
+    color: azure;          
+    text-decoration: underline;     
+}
+
+.Streaminglinks a {
+    display: block;
+    font-size: x-large;
+    text-align: center;        
+    margin-bottom: 15px;   
+    color: azure;          
+    text-decoration: underline;     
+}
+
+.Gameslinks a {
+    display: block;
+    font-size: x-large;
+    text-align: center;        
+    margin-bottom: 15px;   
+    color: azure;          
+    text-decoration: underline;     
+}
+
+.TDlinks a {
+    display: block;
+    font-size: x-large;
+    text-align: center;        
+    margin-bottom: 15px;   
+    color: azure;          
+    text-decoration: underline;     
+}
+
+.Bookletlinks a {
+    display: block;
+    font-size: x-large;
+    text-align: center;        
+    margin-bottom: 15px;   
+    color: azure;          
+    text-decoration: underline;     
+}
+
+
+.top-nav {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.home-button {
+    color: rgb(18, 0, 29);
+    text-decoration: none;
+    padding: 8px 15px;
+    background-color: aliceblue;
+    border-radius: 5;
+}
+
+.home-button:hover {
+    background-color: #969696;
+}
+
